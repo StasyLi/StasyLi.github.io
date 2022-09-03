@@ -1,2 +1,2 @@
-# StasyLi.github.io
+# StasyLi
 Мой первый опубликованный сайт
